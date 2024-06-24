@@ -39,4 +39,3 @@ while True:
     except ValueError:
         print("You should write values not symbols...")
         continue
-        
